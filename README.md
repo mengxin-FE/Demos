@@ -9,3 +9,5 @@
 [new vision 大学时写的一个摄影站点demo](https://mengxin-fe.github.io/Demos/new%20vision/index.html)
 
 [nuoio Test](https://mengxin-fe.github.io/Demos/nuoio/index.html)
+
+[ES6 新特性导航表](https://mengxin-fe.github.io/Demos/ES6 Newest List/ES6 Newest List.html)
