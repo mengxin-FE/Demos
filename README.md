@@ -10,4 +10,6 @@
 
 [nuoio Test](https://mengxin-fe.github.io/Demos/nuoio/index.html)
 
-[ES6 新特性导航表](https://mengxin-fe.github.io/Demos/ES6 Newest List/ES6NewestList.html)
+[ES6 Newest List](https://mengxin-fe.github.io/Demos/ES6NewestList/ES6NewestList.html)
+
+[收集来的学习线路图Guide](https://mengxin-fe.github.io/Demos/guide/guide.html)
